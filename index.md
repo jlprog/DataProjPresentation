@@ -15,7 +15,7 @@ knit        : slidify::knit2slides
 ## Interactive Regression Analysis Tool
 ### A Shiny Appliation
 
-Sun Feb 22 19:21:55 2015
+Sun Feb 22 19:44:46 2015
 
 ---
 
